@@ -10,7 +10,5 @@
 ---
 ## Contact
 
-[Twitter](https://twitter.com/otascar)
-
 [Website](https://ocarmo.dev)
 
